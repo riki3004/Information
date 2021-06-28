@@ -8,14 +8,11 @@ BattlefieldJapanCommunityの初公式大会 "BFJ Cap" が開催決定しまし�
 
 ## 日時
 2021年 7月 11日
+## 応募日時
+2021/06/28 ~ 07/05 23:59
 
 ## モード
 コンクエスト
-
-## マップ
-- Solomon Arras
-- Marita Aerodrome
-- TwistetSteel
 
 ## 実況
 ソバルト
@@ -26,7 +23,7 @@ Lab_WLM
 
 ## 大会の詳細
 ### マップ数
-3MAP (先に２本先取した軍の勝利)
+最大3戦
 ### 武器・兵器制限
 特になし
 ### サーバー設定
