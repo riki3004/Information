@@ -4,6 +4,8 @@ merunno - 2021/06/28
 BattlefieldJapanCommunityの初公式大会 "BFJ Cap" が開催決定しました！
 参加の際は以下の情報を確認の上、 [こちらのフォームより応募ください。](https://forms.gle/raBZ3wK1iTeQPMvDA)
 
+
+
 ## 日時
 2021年 7月 11日
 
@@ -29,6 +31,13 @@ Lab_WLM
 特になし
 ### サーバー設定
 すべてバニラ設定
+
+### 応募方法
+- [こちらのフォームより応募ください。](https://forms.gle/raBZ3wK1iTeQPMvDA)
+- 応募時にはDiscord Tagが必要です。(Discordのここをクリックするとコピーできます。)
+[image*2](https://media.discordapp.net/attachments/780748504527667200/858961274071023626/unknown.png)
+- 分隊としての参加の場合は分隊員全員分のTagとOriginIDを代表者が申請してください。
+  - 代表者のみの応募で構いません。分隊員全員の応募は必要ありません。
 
 ## その他
 - 大会ルールは大会専用Discordサーバーに書いてあります。事前に確認してください。
