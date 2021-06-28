@@ -35,7 +35,9 @@ Lab_WLM
 ### 応募方法
 - [こちらのフォームより応募ください。](https://forms.gle/raBZ3wK1iTeQPMvDA)
 - 応募時にはDiscord Tagが必要です。(Discordのここをクリックするとコピーできます。)
-[image*2](https://media.discordapp.net/attachments/780748504527667200/858961274071023626/unknown.png)
+
+![image*2](https://media.discordapp.net/attachments/780748504527667200/858961274071023626/unknown.png)
+
 - 分隊としての参加の場合は分隊員全員分のTagとOriginIDを代表者が申請してください。
   - 代表者のみの応募で構いません。分隊員全員の応募は必要ありません。
 
