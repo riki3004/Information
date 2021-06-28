@@ -1,6 +1,6 @@
 # 第一回 Battlefield Japan Community "BFJ Cup" 開催決定！
 
-Battlefield Japan Communityの初公式大会 "BFJ Cup" が開催決定しました！
+Battlefield Japan Communityの初公式大会 "BFJ Cup" が開催決定しました！  
 参加の際は以下の情報を確認の上、 [こちらのフォームより応募ください。](https://forms.gle/raBZ3wK1iTeQPMvDA)
 
 
