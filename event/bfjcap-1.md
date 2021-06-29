@@ -56,6 +56,7 @@ Lab_WLM
 ![image*2](https://media.discordapp.net/attachments/780748504527667200/858961274071023626/unknown.png)
 
 - 分隊としての参加の場合は分隊員全員分のTagとOriginIDを代表者が申請してください。
+
 #### Discord Nitro・Nitro Classicを購入していてTagの四桁の番号を変更している人へ。
 大会運営からDMを送信する際にTagの四桁の番号が申請時と異なると、DMを送ることが出来ないので、
 もし、DMが届くまでにNitroが無効になってしまい、Tagの四桁の番号が変わっていたら `#サポートセンター` までお願いします。
