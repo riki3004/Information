@@ -4,6 +4,8 @@ Battlefield Japan Communityの初公式イベント "BFJ Cup" が開催決定し
 参加の際は以下の情報を確認の上、 [こちらのフォームより応募ください。](https://forms.gle/raBZ3wK1iTeQPMvDA)
 ※本大会はElectronic ArtsおよびDICEが関与するものではありません。
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">📣 公式イベント 開催のお知らせ<br>Battlefield Japan Communityの初の公式イベントとなる &quot;BFJ Cap&quot; を7/11(日) 21:00~に開催します。<br>リンクを確認の上フォームより応募ください。<br><br>応募締切は 2021/07/05 23:59です。<br>たくさんの応募お待ちしております！<a href="https://t.co/yRgctQFrHN">https://t.co/yRgctQFrHN</a><a href="https://twitter.com/hashtag/BFV?src=hash&amp;ref_src=twsrc%5Etfw">#BFV</a> <a href="https://twitter.com/hashtag/BFJ?src=hash&amp;ref_src=twsrc%5Etfw">#BFJ</a> <a href="https://twitter.com/hashtag/BFJCap?src=hash&amp;ref_src=twsrc%5Etfw">#BFJCap</a></p>&mdash; BFJ｜Battlefield Japan Community (@BFJ_GG) <a href="https://twitter.com/BFJ_GG/status/1409768599418408988?ref_src=twsrc%5Etfw">June 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## 日時
 2021/07/11(日) 21:00〜
 ## 募集期間
