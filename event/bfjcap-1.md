@@ -44,7 +44,7 @@ Lab_WLM
 ### 武器・兵器制限
 特になし
 ### サーバー設定
-すべてバニラ設定
+デフォルト設定
 
 ### 応募方法
 - [こちらのフォームより応募ください。](https://forms.gle/raBZ3wK1iTeQPMvDA)
@@ -52,6 +52,10 @@ Lab_WLM
   - 例: `merunno#0001`
 
 ![image*2](https://media.discordapp.net/attachments/780748504527667200/858961274071023626/unknown.png)
+
+#### Discord Nitro・Nitro Classicを購入していてTagの四桁の番号を変更している人へ。
+大会運営からDMを送信する際にTagの四桁の番号が申請時と異なると、DMを送ることが出来ないので、
+もし、DMが届くまでにNitroが無効になってしまい、Tagの四桁の番号が変わっていたら `#サポートセンター` までお願いします。
 
 
 - 分隊としての参加の場合は分隊員全員分のTagとOriginIDを代表者が申請してください。
