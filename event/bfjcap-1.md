@@ -2,11 +2,10 @@
 
 Battlefield Japan Communityの初公式イベント "BFJ Cup" が開催決定しました！
 参加の際は以下の情報を確認の上、 [こちらのフォームより応募ください。](https://forms.gle/raBZ3wK1iTeQPMvDA)
-※本大会はea/diceが主催するものではありません。
-
+※本大会はElectronic ArtsおよびDICEが関与するものではありません。
 
 ## 日時
-2021年 7月 11日
+2021/07/11
 ## 募集期間
 2021/06/29 ~ 07/05 23:59
 
@@ -50,8 +49,10 @@ Lab_WLM
 ### 応募方法
 - [こちらのフォームより応募ください。](https://forms.gle/raBZ3wK1iTeQPMvDA)
 - 応募時にはDiscord Tagが必要です。(Discordのここをクリックするとコピーできます。)
+  - 例: `merunno#0001`
 
 ![image*2](https://media.discordapp.net/attachments/780748504527667200/858961274071023626/unknown.png)
+
 
 - 分隊としての参加の場合は分隊員全員分のTagとOriginIDを代表者が申請してください。
 
