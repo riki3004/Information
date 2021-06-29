@@ -5,7 +5,7 @@ Battlefield Japan Communityの初公式イベント "BFJ Cup" が開催決定し
 ※本大会はElectronic ArtsおよびDICEが関与するものではありません。
 
 ## 日時
-2021/07/11
+2021/07/11 21:00〜
 ## 募集期間
 2021/06/29 ~ 07/05 23:59
 
