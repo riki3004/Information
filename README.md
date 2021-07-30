@@ -1,6 +1,6 @@
 ![image*2](https://media.contentapi.ea.com/content/dam/bf/images/2019/03/bfv-firestorm-og-image.jpg.adapt.crop191x100.1200w.jpg)
 ### [BattlefieldV FireStormイベント開催！](./event/other/firestorm-event.md)
-merunno(Pluton_JP) - 2021/07/18
+記事作成merunno (執筆Pluton_JP)
 
 BattlefieldV のモードの一つ **FireStorm** のイベントが開催！
 詳細は [こちら](./event/other/firestorm-event.md)
