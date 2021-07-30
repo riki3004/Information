@@ -1,5 +1,5 @@
 # BattlefieldV FireStormイベント開催！
-> merunno(Pluton_JP) - 2021/07/18
+> 記事作成merunno (執筆Pluton_JP)- 2021/07/18
 
 7月31日（土）にBattlefieldV FireStormイベントを開催します。
 
