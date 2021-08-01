@@ -1,3 +1,8 @@
+### [BattlefieldV: Battlefield Japan Community初の大会開催！](event/bfj-games/bfjgames-1.md)
+merunno - 2021/08/02
+
+Battlefield Japan Community初となる大会が開催決定！
+
 ### [BattlefieldV: タイとの交流戦開催！](event/other/Thailand-event.md)
 merunno - 2021/08/01
 
