@@ -19,6 +19,7 @@ Battlefield Japan Community初となる大会が開催決定！
 - 禁止武器なし
 - 禁止行為なし
 - MOSSを導入していること。
+
 ### MOSSについて
 - [MOSSオフィシャル サイト](https://nohope.eu)
 - MOSSは、ESLでの無料ゲーム開発を支援するために2010年にNohope92によって作成されました。MOSSはESLがプレーヤーのフェアプレーとアイデンティティを管理するのに役立ちます。MOSSは無料です。
