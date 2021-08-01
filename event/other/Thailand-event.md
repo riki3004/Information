@@ -11,7 +11,7 @@
 | Rottordum / CQ | 歩兵のみ |
 | Mercury / CQ  | 歩兵，飛行機のみ |
 | Pacific Strom / BT | 歩兵，飛行機のみ |
-| Arras / BT | 歩兵で近接武器 |
+| Arras / BT | 歩兵で近接武器のみ |
 
 ## 日付/時間
 日時：2021年8月13日
