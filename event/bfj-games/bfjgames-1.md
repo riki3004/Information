@@ -54,4 +54,4 @@ Battlefield Japan Community初となる大会が開催決定！
 |21：00|開始|
 |22：30|終了⇒撮影|
 
-応募フォームは [こちらから！]()
+応募フォームは [こちらから！](https://docs.google.com/forms/d/e/1FAIpQLSc_mlMdYRW-7riQ7cyyM124nCj2pyAqWvxq3pjIS0ZI7dPYRQ/viewform)
