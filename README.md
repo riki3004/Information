@@ -1,11 +1,11 @@
-![image*2](https://media.contentapi.ea.com/content/dam/bf/images/2019/03/bfv-firestorm-og-image.jpg.adapt.crop191x100.1200w.jpg)
-
 ### [BattlefieldV: タイとの交流戦開催！](event/other/Thailand-event.md)
 merunno - 2021/08/01
 
 Battlefield Japan Community初となる国際イベントが開催決定！
 
 ----
+
+![image*2](https://media.contentapi.ea.com/content/dam/bf/images/2019/03/bfv-firestorm-og-image.jpg.adapt.crop191x100.1200w.jpg)
 
 ### [BattlefieldV FireStormイベント開催！](./event/other/firestorm-event.md)
 記事作成merunno (執筆Pluton_JP)
