@@ -17,7 +17,7 @@ Battlefield Japan Community初となる大会が開催決定！
 
 ## ルール
 - 禁止武器なし
-- ProvenceにおいてTigerの使用禁止なし
+- ProvenceにおいてTigerの使用禁止
 - MOSSを導入していること
 
 ### MOSSについて
