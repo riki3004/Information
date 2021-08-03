@@ -19,6 +19,7 @@ Battlefield Japan Community初となる大会が開催決定！
 - 禁止武器なし
 - ProvenceにおいてTigerの使用禁止
 - MOSSを導入していること
+- コンクエスト
 
 ### MOSSについて
 - [MOSSオフィシャル サイト](https://nohope.eu)
