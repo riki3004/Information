@@ -1,5 +1,11 @@
 ## Battlefield Japan Community Information
 
+## [BattlefieldV: PC版ストリーマーCUP開催予定](event/other/streamer-event.md)
+merunno - 2021/08/03
+
+ストリーマーカップ開催決定！
+
+----
 
 ### [BattlefieldV: Battlefield Japan Community初の大会開催！](event/bfj-games/bfjgames-1.md)
 merunno - 2021/08/02
