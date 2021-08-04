@@ -6,11 +6,6 @@ merunno - 2021/08/02
 
 本企画は，遊びがメインであるイベントだけではなく，個人の実力を発揮し合える場がほしいとの意見に応え企画したものです。
 
-### [BattlefieldV: タイとの交流戦開催！](event/other/Thailand-event.md)
-merunno - 2021/08/01
-
-Battlefield Japan Community初となる国際イベントが開催決定！
-
 ----
 
 ![image*2](https://media.contentapi.ea.com/content/dam/bf/images/2019/03/bfv-firestorm-og-image.jpg.adapt.crop191x100.1200w.jpg)
