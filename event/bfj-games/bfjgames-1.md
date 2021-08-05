@@ -1,4 +1,4 @@
-# Battlefield Japan Community初の大会開催！
+## Battlefield Japan Community初の大会開催！
 応募フォームはページ最下部にあります。
 当ページの内容を必ずご一読の上、応募を願います。
 
