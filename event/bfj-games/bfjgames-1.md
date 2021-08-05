@@ -51,6 +51,7 @@
 |1|Rankの高い順に40名を選考|
 |2|プロセス1の選考外プレイヤーからSPMの高い順に14名を選考|
 |3|プロセス1,2の選考外プレイヤーからKPMの高い順に10名を選考|
+
 > 各種数値の確認は[Battlefield Tracker](https://battlefieldtracker.com/bfv/)を利用いたします
 
 ## 参加要件
