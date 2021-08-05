@@ -3,7 +3,7 @@
 ## [BattlefieldV: PC版ストリーマーCUP開催予定](event/other/streamer-event.md)
 merunno - 2021/08/03
 
-ストリーマーカップ開催決定！
+ストリーマーカップ開催決定！！
 
 ----
 
