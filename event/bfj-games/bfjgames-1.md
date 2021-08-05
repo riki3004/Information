@@ -7,9 +7,9 @@
 大会」を銘打った企画を開催することで国内Battlefieldコミュニティの更なる盛り上がりへの寄与を目的としております。
 
 ## 日程
-- 開催日時：2021年8月21日(土) 
-	
-	<details>  
+- 開催日時：2021年8月21日(土)
+
+	<details>
 	<summary>タイムテーブル（目安）</summary>
 
 	| 時間 | 内容 |
@@ -50,8 +50,8 @@
 - 日本語でのコミュニケーションをとることができる
 - MOSSを導入することができる
 	<details>
-	<summary>MOSSについて</summary>  
-	
+	<summary>MOSSについて</summary>
+
    - [MOSSオフィシャル サイト](https://nohope.eu)
    - MOSSは、ESLでの無料ゲーム開発を支援するために2010年にNohope92によって作成されました。MOSSはESLがプレーヤーのフェアプレーとアイデンティティを管理するのに役立ちます。MOSSは無料です。
    - MOSSが収集しない情報
@@ -72,21 +72,21 @@
      - 最初にMOSSを起動してから、ゲームを起動します。
        - MOSSを起動し、ファイル選択肢（左側の最初の選択肢）をクリックしてパラメーターを選択し、ゲームをバトルフィールドV（バトルフィールド5）として選択します。
 	</details>
-	
+
 ## 募集要項
 - 個人応募のみの募集となります
 - チーム分けは乱数を用いた抽選にて実施いたします
 - 応募多数の場合は以下プロセスにてメンバー選考を実施いたします
 	<details>
-	<summary>選考プロセス</summary>    
-    
+	<summary>選考プロセス</summary>
+
 	|プロセス|選考基準|
 	|:----:|:----|
 	|1|Rankの高い順に40名を選考|
 	|2|プロセス1の選考外プレイヤーからSPMの高い順に14名を選考|
 	|3|プロセス1,2の選考外プレイヤーからKPMの高い順に10名を選考|
 	> 各種数値の確認は[Battlefield Tracker](https://battlefieldtracker.com/bfv/)を利用いたします
-	</details>  
- 
+	</details>
+
 ## 応募フォーム
 [応募フォームはこちら！](https://docs.google.com/forms/d/e/1FAIpQLSc_mlMdYRW-7riQ7cyyM124nCj2pyAqWvxq3pjIS0ZI7dPYRQ/viewform)
