@@ -1,16 +1,16 @@
 # Battlefield Japan Community初の大会開催！
-
 応募フォームはページ最下部にあります。
 当ページの内容を必ずご一読の上、応募を願います。
 
 ## BFJ Games
 「BFJ Games」は「Battlefield V」で行うBattlefield Japan Community主催の初の大会形式の企画となります。
-「大会」を銘打った企画を開催することで国内Battlefieldコミュニティの更なる盛り上がりへの寄与を目的としております。
+大会」を銘打った企画を開催することで国内Battlefieldコミュニティの更なる盛り上がりへの寄与を目的としております。
 
 ## 日程
 - 開催日時：2021年8月21日(土) 
   <details>  
     <summary>タイムテーブル（目安）</summary>
+  
   
     | 時間 | 内容 |
     |:----:|----|
@@ -51,6 +51,7 @@
 - MOSSを導入することができる
   <details>
     <summary>MOSSについて</summary>  
+
   
    - [MOSSオフィシャル サイト](https://nohope.eu)
    - MOSSは、ESLでの無料ゲーム開発を支援するために2010年にNohope92によって作成されました。MOSSはESLがプレーヤーのフェアプレーとアイデンティティを管理するのに役立ちます。MOSSは無料です。
@@ -78,6 +79,8 @@
 - 応募多数の場合は以下プロセスにてメンバー選考を実施いたします
   <details>
     <summary>選考プロセス</summary>
+    
+    
     |プロセス|選考基準|
     |:----:|:----|
     |1|Rankの高い順に40名を選考|
