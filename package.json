@@ -4,14 +4,15 @@
   "description": "merunno - 2021/08/03",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "honkit serve",
+    "build": "honkit build . docs"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BattleFieldJapanCommunity/Information.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Meru92a and BFJ",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/BattleFieldJapanCommunity/Information/issues"
   },
