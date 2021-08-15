@@ -1,7 +1,7 @@
 # Summary
 
 ## Battlefield Japan Community Cup
-* [Introduction](../README.md)
+* [Introduction](README.md)
 * [第一回](event/bfjc/bfc-1.md)
 
 ## Battlefield Japan Community Games
@@ -15,3 +15,4 @@
 -----
 * [公式Twitter](https://twitter.com/BFJ_GG)
 * [BFJへ参加する](discord.gg/battlefield-jp)
+
